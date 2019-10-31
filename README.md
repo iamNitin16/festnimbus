@@ -1,4 +1,4 @@
-## Nimbus
+## Nimbus the technical fest of NITH
 
 #### This is the official Android Application of Technical Festival of NIT Hamirpur **NIMBUS** made by YOU :smile:.
 
